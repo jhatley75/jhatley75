@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhatley75
+- 👋 Hi, I’m Jim Hatley
 - 👀 I’m interested in software and web development. 
 - 🌱 I’m currently learning python and javascript.
 - 💞️ I’m looking to collaborate on a project that will take me from a beginner to more advanced.
